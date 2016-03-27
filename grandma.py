@@ -1,4 +1,4 @@
-# Write a speak_to_grandma function.
+# Write a speak_to_grandma method.
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
@@ -8,3 +8,9 @@
 # and yells back
 
 # NO, NOT SINCE 1938!
+
+def speak_to_grandma(phrase):
+  if phrase == phrase.upper():
+    return "NO, NOT SINCE 1938!"
+  else:
+    return "HUH?! SPEAK UP, SONNY!"
