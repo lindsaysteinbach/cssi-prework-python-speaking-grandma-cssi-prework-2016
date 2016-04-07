@@ -2,9 +2,9 @@
 
 ## Objectives
 
-1. Control flow by using `if` and `else` statements.
-2. Manipulate strings correctly.
-3. Evaluate the type case of a string.
+1. Control flow by using `if` and `else` statements
+2. Manipulate strings correctly
+3. Evaluate the type case of a string
 
 ## Instructions
 
